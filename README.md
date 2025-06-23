@@ -1,10 +1,4 @@
 
----
-
-### 🖥️ **HTML Version**
-Use this if you're embedding the content in a static HTML page:
-
-
 <h1>📚 Quarter 3 – AI Projects Repository</h1>
 <p>Welcome to the <strong>Quarter 3</strong> AI Projects repository by <a href="https://github.com/aimanshahid800">Aiman Shahid</a>.<br>
 This repository contains Jupyter Notebooks exploring <strong>AI applications in multimodal domains</strong> like images, audio, and video.</p>
